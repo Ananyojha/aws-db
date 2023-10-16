@@ -44,8 +44,8 @@ The following is a non-exhaustive list of the tools and technologies that could 
 
 ## Exam Tips
 IF you are preparing for exams --- All the Best... I believe these tips will help you {These Tips help me be 7 + times Certified 😊}
-HOW TO PREPARE FOR THE EXAM 
 
+**HOW TO PREPARE FOR THE EXAM**
 - Remeber the features of aws services 
 - Follow Tutorials / hands on given in aws docs like this - 
 
