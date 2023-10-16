@@ -41,3 +41,32 @@ The following is a non-exhaustive list of the tools and technologies that could 
 * [Amazon Elastic Kubernetes Service (Amazon EKS)](docs/eks.md)
 * [Elastic Load Balancing](docs/elb.md)
 * [AWS Lambda](docs/lambda.md)
+
+## Exam Tips
+IF you are preparing for exams --- All the Best... I believe these tips will help you {These Tips help me be 7 + times Certified 😊}
+HOW TO PREPARE FOR THE EXAM 
+
+- Remeber the features of aws services 
+- Follow Tutorials / hands on given in aws docs like this - 
+
+- Follow EXAMTOPICS for revsiions
+
+
+**HOW TO ATTEMPT THE EXAM ?**
+
+1. BEFORE START OF YOUR EXAM (AGREE NDA)
+
+2. In EXAM 
+ 
+Number of questions : 65  | time to attempt the exam : 180 min 
+| no negative marking 
+
+- HOW TO ATTEMPT THE QUESTION 
+1. Pay attention to keywords  
+2. Eliminate useless option 
+3. Select COrrect Option 
+
+---
+incase you are confused or don't know the answer : (intelligent guess work)
+pick any possible option (DO NOT LEAVE QUESTION BLANK)
+
