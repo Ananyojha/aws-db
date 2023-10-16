@@ -1,7 +1,7 @@
 # AWS Certified Database - Specialty 
 My personal notes for AWS Certified Database - Specialty exam
 
-## Some Other Resourecs [here]()
+## Some Other Resourecs [here](https://github.com/Ananyojha/aws-db/blob/main/other-good-links.md)
 ## General info
 
 1. [Official exam guide](https://d1.awsstatic.com/training-and-certification/docs-database-specialty/AWS-Certified-Database-Specialty_Exam-Guide.pdf)
